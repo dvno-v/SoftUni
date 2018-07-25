@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\10.Dictionaries\watching and trying\bin\Debug\watching and trying.exe.config
+C:\Users\Stefan\source\repos\10.Dictionaries\watching and trying\bin\Debug\watching and trying.exe
+C:\Users\Stefan\source\repos\10.Dictionaries\watching and trying\bin\Debug\watching and trying.pdb
+C:\Users\Stefan\source\repos\10.Dictionaries\watching and trying\obj\Debug\watching and trying.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\10.Dictionaries\watching and trying\obj\Debug\watching and trying.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\10.Dictionaries\watching and trying\obj\Debug\watching and trying.exe
+C:\Users\Stefan\source\repos\10.Dictionaries\watching and trying\obj\Debug\watching and trying.pdb

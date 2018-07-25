@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\12.String and Text processing\Demo\bin\Debug\Demo.exe.config
+C:\Users\Stefan\source\repos\12.String and Text processing\Demo\bin\Debug\Demo.exe
+C:\Users\Stefan\source\repos\12.String and Text processing\Demo\bin\Debug\Demo.pdb
+C:\Users\Stefan\source\repos\12.String and Text processing\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\12.String and Text processing\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\12.String and Text processing\Demo\obj\Debug\Demo.exe
+C:\Users\Stefan\source\repos\12.String and Text processing\Demo\obj\Debug\Demo.pdb

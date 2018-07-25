@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\11.Dictionaries, lambda and linq - excersises\08. Logs Aggregator\bin\Debug\_08.Logs_Aggregator.exe.config
+C:\Users\Stefan\source\repos\11.Dictionaries, lambda and linq - excersises\08. Logs Aggregator\bin\Debug\_08.Logs_Aggregator.exe
+C:\Users\Stefan\source\repos\11.Dictionaries, lambda and linq - excersises\08. Logs Aggregator\bin\Debug\_08.Logs_Aggregator.pdb
+C:\Users\Stefan\source\repos\11.Dictionaries, lambda and linq - excersises\08. Logs Aggregator\obj\Debug\08. Logs Aggregator.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\11.Dictionaries, lambda and linq - excersises\08. Logs Aggregator\obj\Debug\08. Logs Aggregator.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\11.Dictionaries, lambda and linq - excersises\08. Logs Aggregator\obj\Debug\_08.Logs_Aggregator.exe
+C:\Users\Stefan\source\repos\11.Dictionaries, lambda and linq - excersises\08. Logs Aggregator\obj\Debug\_08.Logs_Aggregator.pdb

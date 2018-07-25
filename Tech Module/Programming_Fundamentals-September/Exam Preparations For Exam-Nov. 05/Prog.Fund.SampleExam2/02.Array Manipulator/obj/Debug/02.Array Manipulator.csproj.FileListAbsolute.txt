@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Prog.Fund.SampleExam2\02.Array Manipulator\bin\Debug\02.Array Manipulator.exe.config
+C:\Users\Stefan\source\repos\Prog.Fund.SampleExam2\02.Array Manipulator\bin\Debug\02.Array Manipulator.exe
+C:\Users\Stefan\source\repos\Prog.Fund.SampleExam2\02.Array Manipulator\bin\Debug\02.Array Manipulator.pdb
+C:\Users\Stefan\source\repos\Prog.Fund.SampleExam2\02.Array Manipulator\obj\Debug\02.Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Prog.Fund.SampleExam2\02.Array Manipulator\obj\Debug\02.Array Manipulator.exe
+C:\Users\Stefan\source\repos\Prog.Fund.SampleExam2\02.Array Manipulator\obj\Debug\02.Array Manipulator.pdb
+C:\Users\Stefan\source\repos\Prog.Fund.SampleExam2\02.Array Manipulator\obj\Debug\02.Array Manipulator.csprojResolveAssemblyReference.cache

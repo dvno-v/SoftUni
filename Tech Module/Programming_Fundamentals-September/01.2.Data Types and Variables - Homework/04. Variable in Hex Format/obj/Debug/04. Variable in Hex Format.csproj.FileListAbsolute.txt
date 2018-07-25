@@ -1,0 +1,6 @@
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe.config
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.pdb
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\04. Variable in Hex Format\obj\Debug\04. Variable in Hex Format.csproj.CoreCompileInputs.cache
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.exe
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.pdb

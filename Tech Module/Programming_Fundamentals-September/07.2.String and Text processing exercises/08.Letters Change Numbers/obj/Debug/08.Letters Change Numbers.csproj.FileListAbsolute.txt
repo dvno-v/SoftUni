@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\08.Letters Change Numbers\bin\Debug\08.Letters Change Numbers.exe.config
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\08.Letters Change Numbers\bin\Debug\08.Letters Change Numbers.exe
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\08.Letters Change Numbers\bin\Debug\08.Letters Change Numbers.pdb
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\08.Letters Change Numbers\obj\Debug\08.Letters Change Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\08.Letters Change Numbers\obj\Debug\08.Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\08.Letters Change Numbers\obj\Debug\08.Letters Change Numbers.exe
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\08.Letters Change Numbers\obj\Debug\08.Letters Change Numbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Еxam Prep 01\T01.Sino The Walker\bin\Debug\T01.Sino The Walker.exe.config
+C:\Users\Stefan\source\repos\Еxam Prep 01\T01.Sino The Walker\bin\Debug\T01.Sino The Walker.exe
+C:\Users\Stefan\source\repos\Еxam Prep 01\T01.Sino The Walker\bin\Debug\T01.Sino The Walker.pdb
+C:\Users\Stefan\source\repos\Еxam Prep 01\T01.Sino The Walker\obj\Debug\T01.Sino The Walker.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\Еxam Prep 01\T01.Sino The Walker\obj\Debug\T01.Sino The Walker.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Еxam Prep 01\T01.Sino The Walker\obj\Debug\T01.Sino The Walker.exe
+C:\Users\Stefan\source\repos\Еxam Prep 01\T01.Sino The Walker\obj\Debug\T01.Sino The Walker.pdb

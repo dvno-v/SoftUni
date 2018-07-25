@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Prog.Fund.SampleExam2\03. Football League\bin\Debug\_03.Football_League.exe.config
+C:\Users\Stefan\source\repos\Prog.Fund.SampleExam2\03. Football League\bin\Debug\_03.Football_League.exe
+C:\Users\Stefan\source\repos\Prog.Fund.SampleExam2\03. Football League\bin\Debug\_03.Football_League.pdb
+C:\Users\Stefan\source\repos\Prog.Fund.SampleExam2\03. Football League\obj\Debug\03. Football League.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\Prog.Fund.SampleExam2\03. Football League\obj\Debug\03. Football League.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Prog.Fund.SampleExam2\03. Football League\obj\Debug\_03.Football_League.exe
+C:\Users\Stefan\source\repos\Prog.Fund.SampleExam2\03. Football League\obj\Debug\_03.Football_League.pdb

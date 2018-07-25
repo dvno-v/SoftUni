@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\07.Arrays-homework\01. Largest Common End\obj\Debug\01. Largest Common End.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\07.Arrays-homework\01. Largest Common End\obj\Debug\01. Largest Common End.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\07.Arrays-homework\01. Largest Common End\bin\Debug\_01.Largest_Common_End.exe.config
+C:\Users\Stefan\source\repos\07.Arrays-homework\01. Largest Common End\bin\Debug\_01.Largest_Common_End.exe
+C:\Users\Stefan\source\repos\07.Arrays-homework\01. Largest Common End\bin\Debug\_01.Largest_Common_End.pdb
+C:\Users\Stefan\source\repos\07.Arrays-homework\01. Largest Common End\obj\Debug\_01.Largest_Common_End.exe
+C:\Users\Stefan\source\repos\07.Arrays-homework\01. Largest Common End\obj\Debug\_01.Largest_Common_End.pdb

@@ -1,0 +1,6 @@
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe.config
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.pdb
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\06. Strings And Objects\obj\Debug\06. Strings And Objects.csproj.CoreCompileInputs.cache
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.exe
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.pdb

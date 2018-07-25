@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T11.Odd number\bin\Debug\T11.Odd number.exe.config
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T11.Odd number\bin\Debug\T11.Odd number.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T11.Odd number\bin\Debug\T11.Odd number.pdb
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T11.Odd number\obj\Debug\T11.Odd number.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T11.Odd number\obj\Debug\T11.Odd number.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T11.Odd number\obj\Debug\T11.Odd number.pdb
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T11.Odd number\obj\Debug\T11.Odd number.csprojResolveAssemblyReference.cache

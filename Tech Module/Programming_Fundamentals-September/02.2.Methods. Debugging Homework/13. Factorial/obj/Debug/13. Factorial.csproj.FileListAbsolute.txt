@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\13. Factorial\bin\Debug\_13.Factorial.exe.config
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\13. Factorial\bin\Debug\_13.Factorial.exe
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\13. Factorial\bin\Debug\_13.Factorial.pdb
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\13. Factorial\obj\Debug\13. Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\13. Factorial\obj\Debug\13. Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\13. Factorial\obj\Debug\_13.Factorial.exe
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\13. Factorial\obj\Debug\_13.Factorial.pdb

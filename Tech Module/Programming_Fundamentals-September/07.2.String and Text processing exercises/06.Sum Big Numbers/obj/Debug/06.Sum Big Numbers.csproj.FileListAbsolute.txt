@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\06.Sum Big Numbers\bin\Debug\06.Sum Big Numbers.exe.config
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\06.Sum Big Numbers\bin\Debug\06.Sum Big Numbers.exe
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\06.Sum Big Numbers\bin\Debug\06.Sum Big Numbers.pdb
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\06.Sum Big Numbers\obj\Debug\06.Sum Big Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\06.Sum Big Numbers\obj\Debug\06.Sum Big Numbers.exe
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\06.Sum Big Numbers\obj\Debug\06.Sum Big Numbers.pdb

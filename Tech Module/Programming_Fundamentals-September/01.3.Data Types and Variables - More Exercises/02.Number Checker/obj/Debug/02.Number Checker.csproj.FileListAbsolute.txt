@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\03.Data Types and Variables - More Exercises\02.Number Checker\bin\Debug\02.Number Checker.exe.config
+C:\Users\Stefan\source\repos\03.Data Types and Variables - More Exercises\02.Number Checker\bin\Debug\02.Number Checker.exe
+C:\Users\Stefan\source\repos\03.Data Types and Variables - More Exercises\02.Number Checker\bin\Debug\02.Number Checker.pdb
+C:\Users\Stefan\source\repos\03.Data Types and Variables - More Exercises\02.Number Checker\obj\Debug\02.Number Checker.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\03.Data Types and Variables - More Exercises\02.Number Checker\obj\Debug\02.Number Checker.exe
+C:\Users\Stefan\source\repos\03.Data Types and Variables - More Exercises\02.Number Checker\obj\Debug\02.Number Checker.pdb

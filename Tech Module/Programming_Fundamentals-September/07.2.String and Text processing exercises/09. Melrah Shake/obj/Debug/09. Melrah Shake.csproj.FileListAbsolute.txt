@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\09. Melrah Shake\bin\Debug\_09.Melrah_Shake.exe.config
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\09. Melrah Shake\bin\Debug\_09.Melrah_Shake.exe
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\09. Melrah Shake\bin\Debug\_09.Melrah_Shake.pdb
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\09. Melrah Shake\obj\Debug\09. Melrah Shake.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\09. Melrah Shake\obj\Debug\09. Melrah Shake.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\09. Melrah Shake\obj\Debug\_09.Melrah_Shake.exe
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\09. Melrah Shake\obj\Debug\_09.Melrah_Shake.pdb

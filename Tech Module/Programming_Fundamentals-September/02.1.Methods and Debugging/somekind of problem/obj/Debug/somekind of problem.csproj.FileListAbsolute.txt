@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\03, Methods and Debugging\somekind of problem\bin\Debug\somekind of problem.exe.config
+C:\Users\Stefan\source\repos\03, Methods and Debugging\somekind of problem\bin\Debug\somekind of problem.exe
+C:\Users\Stefan\source\repos\03, Methods and Debugging\somekind of problem\bin\Debug\somekind of problem.pdb
+C:\Users\Stefan\source\repos\03, Methods and Debugging\somekind of problem\obj\Debug\somekind of problem.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\03, Methods and Debugging\somekind of problem\obj\Debug\somekind of problem.exe
+C:\Users\Stefan\source\repos\03, Methods and Debugging\somekind of problem\obj\Debug\somekind of problem.pdb
+C:\Users\Stefan\source\repos\03, Methods and Debugging\somekind of problem\obj\Debug\somekind of problem.csprojResolveAssemblyReference.cache

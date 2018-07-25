@@ -1,0 +1,7 @@
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe.config
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\09. Reversed chars\bin\Debug\_09.Reversed_chars.pdb
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\09. Reversed chars\obj\Debug\09. Reversed chars.csproj.CoreCompileInputs.cache
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\09. Reversed chars\obj\Debug\_09.Reversed_chars.exe
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\09. Reversed chars\obj\Debug\_09.Reversed_chars.pdb
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\09. Reversed chars\obj\Debug\09. Reversed chars.csprojResolveAssemblyReference.cache

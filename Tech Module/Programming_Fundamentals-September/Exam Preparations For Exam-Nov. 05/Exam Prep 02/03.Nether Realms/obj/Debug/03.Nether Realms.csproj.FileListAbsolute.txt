@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Exam Prep 02\03.Nether Realms\bin\Debug\03.Nether Realms.exe.config
+C:\Users\Stefan\source\repos\Exam Prep 02\03.Nether Realms\bin\Debug\03.Nether Realms.exe
+C:\Users\Stefan\source\repos\Exam Prep 02\03.Nether Realms\bin\Debug\03.Nether Realms.pdb
+C:\Users\Stefan\source\repos\Exam Prep 02\03.Nether Realms\obj\Debug\03.Nether Realms.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\Exam Prep 02\03.Nether Realms\obj\Debug\03.Nether Realms.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Exam Prep 02\03.Nether Realms\obj\Debug\03.Nether Realms.exe
+C:\Users\Stefan\source\repos\Exam Prep 02\03.Nether Realms\obj\Debug\03.Nether Realms.pdb

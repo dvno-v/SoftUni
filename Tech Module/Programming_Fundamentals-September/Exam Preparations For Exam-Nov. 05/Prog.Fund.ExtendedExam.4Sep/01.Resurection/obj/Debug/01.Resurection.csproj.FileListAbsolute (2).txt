@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Prog.Fund.ExtendedExam.4Sep\01.Resurection\bin\Debug\01.Resurection.exe.config
+C:\Users\Stefan\source\repos\Prog.Fund.ExtendedExam.4Sep\01.Resurection\bin\Debug\01.Resurection.exe
+C:\Users\Stefan\source\repos\Prog.Fund.ExtendedExam.4Sep\01.Resurection\bin\Debug\01.Resurection.pdb
+C:\Users\Stefan\source\repos\Prog.Fund.ExtendedExam.4Sep\01.Resurection\obj\Debug\01.Resurection.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\Prog.Fund.ExtendedExam.4Sep\01.Resurection\obj\Debug\01.Resurection.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Prog.Fund.ExtendedExam.4Sep\01.Resurection\obj\Debug\01.Resurection.exe
+C:\Users\Stefan\source\repos\Prog.Fund.ExtendedExam.4Sep\01.Resurection\obj\Debug\01.Resurection.pdb

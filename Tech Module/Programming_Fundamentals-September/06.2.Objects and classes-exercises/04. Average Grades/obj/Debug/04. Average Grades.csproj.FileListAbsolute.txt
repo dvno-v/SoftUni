@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\04. Average Grades\bin\Debug\_04.Average_Grades.exe.config
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\04. Average Grades\bin\Debug\_04.Average_Grades.exe
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\04. Average Grades\bin\Debug\_04.Average_Grades.pdb
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\04. Average Grades\obj\Debug\04. Average Grades.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\04. Average Grades\obj\Debug\_04.Average_Grades.exe
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\04. Average Grades\obj\Debug\_04.Average_Grades.pdb
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\04. Average Grades\obj\Debug\04. Average Grades.csprojResolveAssemblyReference.cache

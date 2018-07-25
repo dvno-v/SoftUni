@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Prog.Fund.Exam.05.November\02\obj\Debug\02.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Prog.Fund.Exam.05.November\02\bin\Debug\02.exe.config
+C:\Users\Stefan\source\repos\Prog.Fund.Exam.05.November\02\bin\Debug\02.exe
+C:\Users\Stefan\source\repos\Prog.Fund.Exam.05.November\02\bin\Debug\02.pdb
+C:\Users\Stefan\source\repos\Prog.Fund.Exam.05.November\02\obj\Debug\02.exe
+C:\Users\Stefan\source\repos\Prog.Fund.Exam.05.November\02\obj\Debug\02.pdb

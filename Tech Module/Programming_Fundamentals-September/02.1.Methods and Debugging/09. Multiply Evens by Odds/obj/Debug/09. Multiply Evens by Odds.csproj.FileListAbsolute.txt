@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\03, Methods and Debugging\09. Multiply Evens by Odds\bin\Debug\_09.Multiply_Evens_by_Odds.exe.config
+C:\Users\Stefan\source\repos\03, Methods and Debugging\09. Multiply Evens by Odds\bin\Debug\_09.Multiply_Evens_by_Odds.exe
+C:\Users\Stefan\source\repos\03, Methods and Debugging\09. Multiply Evens by Odds\bin\Debug\_09.Multiply_Evens_by_Odds.pdb
+C:\Users\Stefan\source\repos\03, Methods and Debugging\09. Multiply Evens by Odds\obj\Debug\09. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\03, Methods and Debugging\09. Multiply Evens by Odds\obj\Debug\_09.Multiply_Evens_by_Odds.exe
+C:\Users\Stefan\source\repos\03, Methods and Debugging\09. Multiply Evens by Odds\obj\Debug\_09.Multiply_Evens_by_Odds.pdb

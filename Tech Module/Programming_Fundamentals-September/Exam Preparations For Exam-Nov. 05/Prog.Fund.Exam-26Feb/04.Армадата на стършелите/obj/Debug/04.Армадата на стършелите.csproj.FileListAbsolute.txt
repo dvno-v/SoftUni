@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\04.Армадата на стършелите\bin\Debug\04.Армадата на стършелите.exe.config
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\04.Армадата на стършелите\bin\Debug\04.Армадата на стършелите.exe
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\04.Армадата на стършелите\bin\Debug\04.Армадата на стършелите.pdb
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\04.Армадата на стършелите\obj\Debug\04.Армадата на стършелите.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\04.Армадата на стършелите\obj\Debug\04.Армадата на стършелите.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\04.Армадата на стършелите\obj\Debug\04.Армадата на стършелите.exe
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\04.Армадата на стършелите\obj\Debug\04.Армадата на стършелите.pdb

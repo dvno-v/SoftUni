@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\03, Methods and Debugging\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe.config
+C:\Users\Stefan\source\repos\03, Methods and Debugging\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe
+C:\Users\Stefan\source\repos\03, Methods and Debugging\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.pdb
+C:\Users\Stefan\source\repos\03, Methods and Debugging\03. Printing Triangle\obj\Debug\03. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\03, Methods and Debugging\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.exe
+C:\Users\Stefan\source\repos\03, Methods and Debugging\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.pdb

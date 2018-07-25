@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\02. Convert from base-N to base-10\bin\Debug\_02.Convert_from_base_N_to_base_10.exe.config
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\02. Convert from base-N to base-10\bin\Debug\_02.Convert_from_base_N_to_base_10.exe
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\02. Convert from base-N to base-10\bin\Debug\_02.Convert_from_base_N_to_base_10.pdb
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\02. Convert from base-N to base-10\obj\Debug\02. Convert from base-N to base-10.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\02. Convert from base-N to base-10\obj\Debug\_02.Convert_from_base_N_to_base_10.exe
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\02. Convert from base-N to base-10\obj\Debug\_02.Convert_from_base_N_to_base_10.pdb

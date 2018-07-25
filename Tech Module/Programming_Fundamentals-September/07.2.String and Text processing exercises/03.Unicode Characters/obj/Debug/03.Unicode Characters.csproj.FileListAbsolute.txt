@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\03.Unicode Characters\bin\Debug\03.Unicode Characters.exe.config
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\03.Unicode Characters\bin\Debug\03.Unicode Characters.exe
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\03.Unicode Characters\bin\Debug\03.Unicode Characters.pdb
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\03.Unicode Characters\obj\Debug\03.Unicode Characters.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\03.Unicode Characters\obj\Debug\03.Unicode Characters.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\03.Unicode Characters\obj\Debug\03.Unicode Characters.exe
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\03.Unicode Characters\obj\Debug\03.Unicode Characters.pdb

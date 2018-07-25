@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Prog.Fund.ExtendedExam.4Sep\03.Phoenix Grid\bin\Debug\03.Phoenix Grid.exe.config
+C:\Users\Stefan\source\repos\Prog.Fund.ExtendedExam.4Sep\03.Phoenix Grid\bin\Debug\03.Phoenix Grid.exe
+C:\Users\Stefan\source\repos\Prog.Fund.ExtendedExam.4Sep\03.Phoenix Grid\bin\Debug\03.Phoenix Grid.pdb
+C:\Users\Stefan\source\repos\Prog.Fund.ExtendedExam.4Sep\03.Phoenix Grid\obj\Debug\03.Phoenix Grid.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\Prog.Fund.ExtendedExam.4Sep\03.Phoenix Grid\obj\Debug\03.Phoenix Grid.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Prog.Fund.ExtendedExam.4Sep\03.Phoenix Grid\obj\Debug\03.Phoenix Grid.exe
+C:\Users\Stefan\source\repos\Prog.Fund.ExtendedExam.4Sep\03.Phoenix Grid\obj\Debug\03.Phoenix Grid.pdb

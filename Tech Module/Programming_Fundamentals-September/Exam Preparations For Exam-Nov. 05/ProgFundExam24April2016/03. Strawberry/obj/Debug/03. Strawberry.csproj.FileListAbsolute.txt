@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\ProgFundExam24April2016\03. Strawberry\bin\Debug\_03.Strawberry.exe.config
+C:\Users\Stefan\source\repos\ProgFundExam24April2016\03. Strawberry\bin\Debug\_03.Strawberry.exe
+C:\Users\Stefan\source\repos\ProgFundExam24April2016\03. Strawberry\bin\Debug\_03.Strawberry.pdb
+C:\Users\Stefan\source\repos\ProgFundExam24April2016\03. Strawberry\obj\Debug\03. Strawberry.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\ProgFundExam24April2016\03. Strawberry\obj\Debug\_03.Strawberry.exe
+C:\Users\Stefan\source\repos\ProgFundExam24April2016\03. Strawberry\obj\Debug\_03.Strawberry.pdb

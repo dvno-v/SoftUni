@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.exe.config
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.exe
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.pdb
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\14. Factorial Trailing Zeroes\obj\Debug\14. Factorial Trailing Zeroes.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\14. Factorial Trailing Zeroes\obj\Debug\_14.Factorial_Trailing_Zeroes.exe
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\14. Factorial Trailing Zeroes\obj\Debug\_14.Factorial_Trailing_Zeroes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\07.Arrays-homework\10.PairsByDifference\bin\Debug\10.PairsByDifference.exe.config
+C:\Users\Stefan\source\repos\07.Arrays-homework\10.PairsByDifference\bin\Debug\10.PairsByDifference.exe
+C:\Users\Stefan\source\repos\07.Arrays-homework\10.PairsByDifference\bin\Debug\10.PairsByDifference.pdb
+C:\Users\Stefan\source\repos\07.Arrays-homework\10.PairsByDifference\obj\Debug\10.PairsByDifference.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\07.Arrays-homework\10.PairsByDifference\obj\Debug\10.PairsByDifference.exe
+C:\Users\Stefan\source\repos\07.Arrays-homework\10.PairsByDifference\obj\Debug\10.PairsByDifference.pdb

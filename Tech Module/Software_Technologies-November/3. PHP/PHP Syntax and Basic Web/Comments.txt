@@ -1,0 +1,4 @@
+These projects should be running through 
+C:\xampp\htdocs\MyProjects
+
+

@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Exam Prep 3\03.Rage Quit\bin\Debug\03.Rage Quit.exe.config
+C:\Users\Stefan\source\repos\Exam Prep 3\03.Rage Quit\bin\Debug\03.Rage Quit.exe
+C:\Users\Stefan\source\repos\Exam Prep 3\03.Rage Quit\bin\Debug\03.Rage Quit.pdb
+C:\Users\Stefan\source\repos\Exam Prep 3\03.Rage Quit\obj\Debug\03.Rage Quit.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\Exam Prep 3\03.Rage Quit\obj\Debug\03.Rage Quit.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Exam Prep 3\03.Rage Quit\obj\Debug\03.Rage Quit.exe
+C:\Users\Stefan\source\repos\Exam Prep 3\03.Rage Quit\obj\Debug\03.Rage Quit.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\08.Lists-exercises\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.exe.config
+C:\Users\Stefan\source\repos\08.Lists-exercises\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.exe
+C:\Users\Stefan\source\repos\08.Lists-exercises\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.pdb
+C:\Users\Stefan\source\repos\08.Lists-exercises\06. Sum Reversed Numbers\obj\Debug\06. Sum Reversed Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\08.Lists-exercises\06. Sum Reversed Numbers\obj\Debug\_06.Sum_Reversed_Numbers.exe
+C:\Users\Stefan\source\repos\08.Lists-exercises\06. Sum Reversed Numbers\obj\Debug\_06.Sum_Reversed_Numbers.pdb

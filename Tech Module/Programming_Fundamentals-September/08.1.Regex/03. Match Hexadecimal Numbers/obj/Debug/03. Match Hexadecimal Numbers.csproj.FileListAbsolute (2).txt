@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Regex\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.exe.config
+C:\Users\Stefan\source\repos\Regex\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.exe
+C:\Users\Stefan\source\repos\Regex\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.pdb
+C:\Users\Stefan\source\repos\Regex\03. Match Hexadecimal Numbers\obj\Debug\03. Match Hexadecimal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Regex\03. Match Hexadecimal Numbers\obj\Debug\_03.Match_Hexadecimal_Numbers.exe
+C:\Users\Stefan\source\repos\Regex\03. Match Hexadecimal Numbers\obj\Debug\_03.Match_Hexadecimal_Numbers.pdb

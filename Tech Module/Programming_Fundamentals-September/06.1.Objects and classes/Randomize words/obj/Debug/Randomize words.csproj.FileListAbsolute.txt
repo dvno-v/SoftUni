@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\12.Objects and classes\Randomize words\bin\Debug\Randomize words.exe.config
+C:\Users\Stefan\source\repos\12.Objects and classes\Randomize words\bin\Debug\Randomize words.exe
+C:\Users\Stefan\source\repos\12.Objects and classes\Randomize words\bin\Debug\Randomize words.pdb
+C:\Users\Stefan\source\repos\12.Objects and classes\Randomize words\obj\Debug\Randomize words.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\12.Objects and classes\Randomize words\obj\Debug\Randomize words.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\12.Objects and classes\Randomize words\obj\Debug\Randomize words.exe
+C:\Users\Stefan\source\repos\12.Objects and classes\Randomize words\obj\Debug\Randomize words.pdb

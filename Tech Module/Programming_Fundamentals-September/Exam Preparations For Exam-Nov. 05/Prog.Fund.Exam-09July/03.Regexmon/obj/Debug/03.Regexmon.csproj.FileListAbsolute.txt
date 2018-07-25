@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-09July\03.Regexmon\bin\Debug\03.Regexmon.exe.config
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-09July\03.Regexmon\bin\Debug\03.Regexmon.exe
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-09July\03.Regexmon\bin\Debug\03.Regexmon.pdb
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-09July\03.Regexmon\obj\Debug\03.Regexmon.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-09July\03.Regexmon\obj\Debug\03.Regexmon.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-09July\03.Regexmon\obj\Debug\03.Regexmon.exe
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-09July\03.Regexmon\obj\Debug\03.Regexmon.pdb

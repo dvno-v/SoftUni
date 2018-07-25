@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T08. Sum of Odd Numbers\bin\Debug\T08.Sum_of_Odd_Numbers.exe.config
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T08. Sum of Odd Numbers\bin\Debug\T08.Sum_of_Odd_Numbers.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T08. Sum of Odd Numbers\bin\Debug\T08.Sum_of_Odd_Numbers.pdb
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T08. Sum of Odd Numbers\obj\Debug\T08. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T08. Sum of Odd Numbers\obj\Debug\T08.Sum_of_Odd_Numbers.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T08. Sum of Odd Numbers\obj\Debug\T08.Sum_of_Odd_Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T04.Mount printer\bin\Debug\T04.Mount printer.exe.config
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T04.Mount printer\bin\Debug\T04.Mount printer.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T04.Mount printer\bin\Debug\T04.Mount printer.pdb
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T04.Mount printer\obj\Debug\T04.Mount printer.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T04.Mount printer\obj\Debug\T04.Mount printer.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T04.Mount printer\obj\Debug\T04.Mount printer.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\01.Hornet Wings\bin\Debug\01.Hornet Wings.exe.config
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\01.Hornet Wings\bin\Debug\01.Hornet Wings.exe
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\01.Hornet Wings\bin\Debug\01.Hornet Wings.pdb
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\01.Hornet Wings\obj\Debug\01.Hornet Wings.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\01.Hornet Wings\obj\Debug\01.Hornet Wings.exe
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\01.Hornet Wings\obj\Debug\01.Hornet Wings.pdb
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\01.Hornet Wings\obj\Debug\01.Hornet Wings.csprojResolveAssemblyReference.cache

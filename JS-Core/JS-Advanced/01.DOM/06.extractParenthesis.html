@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Extract</title>
+</head>
+<body>
+<p id="content">
+    <span>Lorem (ipsum) dolor sit amet, (consectetur) adipisicing elit. Aliquam amet architecto assumenda cumque deleniti dolorum eos, ex explicabo fuga harum id inventore iusto labore nemo odio, perferendis vel voluptate voluptatum?</span><span>Alias autem cum deserunt earum error esse et facere fuga fugiat (harum) illum laudantium nostrum odio officia optio placeat provident quibusdam recusandae temporibus tenetur totam ullam ut voluptas voluptates, voluptatibus.</span><span>Beatae hic recusandae sequi ullam. Architecto cumque debitis dolor doloribus eum (exercitationem) illo iusto libero quidem vero! Alias, autem error hic iste maxime nam numquam officia praesentium soluta tenetur voluptatum?</span><span>Asperiores at cumque dolor dolore dolorem ducimus earum enim eveniet hic id in incidunt ipsum minus nemo, odio officia omnis quasi quisquam repellendus repudiandae sed sint temporibus. Illo sequi, voluptas.</span><span>Dignissimos, dolor dolorem doloremque explicabo fuga impedit in inventore, iusto odio ratione tempore vero. Ad aliquam atque blanditiis consequuntur corporis deserunt minima, nisi placeat qui quidem sapiente velit veniam voluptatem?</span>
+</p>
+<input id="result" readonly="readonly"/>
+<button onclick="find('content')">CLICK MEEE</button>
+<script>
+    function find(id) {
+        let found =[];
+        let text = document.getElementById(id).textContent;
+        let regex = /\(([^(^)]+)\)/g;
+        let match = regex.exec(text);
+        while(match){
+            found.push(match[1]);
+            match = regex.exec(text);
+        }
+        //document.getElementById('result').value = found.join(", ");
+        return found.join("; ")
+    }
+</script>
+</body>
+</html>

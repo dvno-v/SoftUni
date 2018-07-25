@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\06. Prime Checker\bin\Debug\_06.Prime_Checker.exe.config
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\06. Prime Checker\bin\Debug\_06.Prime_Checker.exe
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\06. Prime Checker\bin\Debug\_06.Prime_Checker.pdb
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\06. Prime Checker\obj\Debug\06. Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\06. Prime Checker\obj\Debug\_06.Prime_Checker.exe
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\06. Prime Checker\obj\Debug\_06.Prime_Checker.pdb

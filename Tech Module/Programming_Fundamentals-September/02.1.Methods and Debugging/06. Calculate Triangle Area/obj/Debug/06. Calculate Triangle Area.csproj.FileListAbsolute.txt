@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\03, Methods and Debugging\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.exe.config
+C:\Users\Stefan\source\repos\03, Methods and Debugging\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.exe
+C:\Users\Stefan\source\repos\03, Methods and Debugging\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.pdb
+C:\Users\Stefan\source\repos\03, Methods and Debugging\06. Calculate Triangle Area\obj\Debug\06. Calculate Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\03, Methods and Debugging\06. Calculate Triangle Area\obj\Debug\_06.Calculate_Triangle_Area.exe
+C:\Users\Stefan\source\repos\03, Methods and Debugging\06. Calculate Triangle Area\obj\Debug\_06.Calculate_Triangle_Area.pdb

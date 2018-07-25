@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\03. Circles Intersection\obj\Debug\03. Circles Intersection.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\03. Circles Intersection\obj\Debug\03. Circles Intersection.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.exe.config
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.exe
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.pdb
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\03. Circles Intersection\obj\Debug\_03.Circles_Intersection.exe
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\03. Circles Intersection\obj\Debug\_03.Circles_Intersection.pdb

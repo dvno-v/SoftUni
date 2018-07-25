@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.exe.config
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.exe
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.pdb
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\05. Magic exchangeable words\obj\Debug\05. Magic exchangeable words.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\05. Magic exchangeable words\obj\Debug\05. Magic exchangeable words.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\05. Magic exchangeable words\obj\Debug\_05.Magic_exchangeable_words.exe
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\05. Magic exchangeable words\obj\Debug\_05.Magic_exchangeable_words.pdb

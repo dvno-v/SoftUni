@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\07.Arrays-homework\03.Fold And sum 0.2\bin\Debug\03.Fold And sum 0.2.exe.config
+C:\Users\Stefan\source\repos\07.Arrays-homework\03.Fold And sum 0.2\bin\Debug\03.Fold And sum 0.2.exe
+C:\Users\Stefan\source\repos\07.Arrays-homework\03.Fold And sum 0.2\bin\Debug\03.Fold And sum 0.2.pdb
+C:\Users\Stefan\source\repos\07.Arrays-homework\03.Fold And sum 0.2\obj\Debug\03.Fold And sum 0.2.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\07.Arrays-homework\03.Fold And sum 0.2\obj\Debug\03.Fold And sum 0.2.exe
+C:\Users\Stefan\source\repos\07.Arrays-homework\03.Fold And sum 0.2\obj\Debug\03.Fold And sum 0.2.pdb

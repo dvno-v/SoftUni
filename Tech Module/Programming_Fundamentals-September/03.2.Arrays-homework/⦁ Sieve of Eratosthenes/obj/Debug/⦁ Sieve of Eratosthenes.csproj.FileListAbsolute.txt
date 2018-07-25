@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\07.Arrays-homework\⦁ Sieve of Eratosthenes\bin\Debug\⦁ Sieve of Eratosthenes.exe.config
+C:\Users\Stefan\source\repos\07.Arrays-homework\⦁ Sieve of Eratosthenes\bin\Debug\⦁ Sieve of Eratosthenes.exe
+C:\Users\Stefan\source\repos\07.Arrays-homework\⦁ Sieve of Eratosthenes\bin\Debug\⦁ Sieve of Eratosthenes.pdb
+C:\Users\Stefan\source\repos\07.Arrays-homework\⦁ Sieve of Eratosthenes\obj\Debug\⦁ Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\07.Arrays-homework\⦁ Sieve of Eratosthenes\obj\Debug\⦁ Sieve of Eratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\07.Arrays-homework\⦁ Sieve of Eratosthenes\obj\Debug\⦁ Sieve of Eratosthenes.exe
+C:\Users\Stefan\source\repos\07.Arrays-homework\⦁ Sieve of Eratosthenes\obj\Debug\⦁ Sieve of Eratosthenes.pdb

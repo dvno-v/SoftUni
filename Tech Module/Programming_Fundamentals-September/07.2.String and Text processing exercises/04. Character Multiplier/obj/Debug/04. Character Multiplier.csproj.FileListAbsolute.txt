@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe.config
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.pdb
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\04. Character Multiplier\obj\Debug\04. Character Multiplier.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\04. Character Multiplier\obj\Debug\04. Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.exe
+C:\Users\Stefan\source\repos\12.String and Text processing exercises\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.pdb

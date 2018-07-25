@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\02. Max Method\bin\Debug\_02.Max_Method.exe.config
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\02. Max Method\bin\Debug\_02.Max_Method.exe
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\02. Max Method\bin\Debug\_02.Max_Method.pdb
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\02. Max Method\obj\Debug\02. Max Method.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\02. Max Method\obj\Debug\_02.Max_Method.exe
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\02. Max Method\obj\Debug\_02.Max_Method.pdb

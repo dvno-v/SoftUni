@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\08.Lists-exercises\03. Search for a Number\bin\Debug\_03.Search_for_a_Number.exe.config
+C:\Users\Stefan\source\repos\08.Lists-exercises\03. Search for a Number\bin\Debug\_03.Search_for_a_Number.exe
+C:\Users\Stefan\source\repos\08.Lists-exercises\03. Search for a Number\bin\Debug\_03.Search_for_a_Number.pdb
+C:\Users\Stefan\source\repos\08.Lists-exercises\03. Search for a Number\obj\Debug\03. Search for a Number.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\08.Lists-exercises\03. Search for a Number\obj\Debug\_03.Search_for_a_Number.exe
+C:\Users\Stefan\source\repos\08.Lists-exercises\03. Search for a Number\obj\Debug\_03.Search_for_a_Number.pdb
+C:\Users\Stefan\source\repos\08.Lists-exercises\03. Search for a Number\obj\Debug\03. Search for a Number.csprojResolveAssemblyReference.cache

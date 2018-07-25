@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\08.Lists\01. Remove Negatives and Reverse\bin\Debug\_01.Remove_Negatives_and_Reverse.exe.config
+C:\Users\Stefan\source\repos\08.Lists\01. Remove Negatives and Reverse\bin\Debug\_01.Remove_Negatives_and_Reverse.exe
+C:\Users\Stefan\source\repos\08.Lists\01. Remove Negatives and Reverse\bin\Debug\_01.Remove_Negatives_and_Reverse.pdb
+C:\Users\Stefan\source\repos\08.Lists\01. Remove Negatives and Reverse\obj\Debug\01. Remove Negatives and Reverse.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\08.Lists\01. Remove Negatives and Reverse\obj\Debug\01. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\08.Lists\01. Remove Negatives and Reverse\obj\Debug\_01.Remove_Negatives_and_Reverse.exe
+C:\Users\Stefan\source\repos\08.Lists\01. Remove Negatives and Reverse\obj\Debug\_01.Remove_Negatives_and_Reverse.pdb

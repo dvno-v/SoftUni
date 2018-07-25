@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\03, Methods and Debugging\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.exe.config
+C:\Users\Stefan\source\repos\03, Methods and Debugging\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.exe
+C:\Users\Stefan\source\repos\03, Methods and Debugging\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.pdb
+C:\Users\Stefan\source\repos\03, Methods and Debugging\02. Sign of Integer Number\obj\Debug\02. Sign of Integer Number.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\03, Methods and Debugging\02. Sign of Integer Number\obj\Debug\_02.Sign_of_Integer_Number.exe
+C:\Users\Stefan\source\repos\03, Methods and Debugging\02. Sign of Integer Number\obj\Debug\_02.Sign_of_Integer_Number.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T07.Divisible by 3\bin\Debug\T07.Divisible by 3.exe.config
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T07.Divisible by 3\bin\Debug\T07.Divisible by 3.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T07.Divisible by 3\bin\Debug\T07.Divisible by 3.pdb
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T07.Divisible by 3\obj\Debug\T07.Divisible by 3.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T07.Divisible by 3\obj\Debug\T07.Divisible by 3.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T07.Divisible by 3\obj\Debug\T07.Divisible by 3.pdb

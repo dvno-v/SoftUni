@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.exe.config
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.exe
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.pdb
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\06. Book Library Modification\obj\Debug\06. Book Library Modification.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\06. Book Library Modification\obj\Debug\_06.Book_Library_Modification.exe
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\06. Book Library Modification\obj\Debug\_06.Book_Library_Modification.pdb

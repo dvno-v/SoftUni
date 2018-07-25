@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Exam Prep 3\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.exe.config
+C:\Users\Stefan\source\repos\Exam Prep 3\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.exe
+C:\Users\Stefan\source\repos\Exam Prep 3\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.pdb
+C:\Users\Stefan\source\repos\Exam Prep 3\02. Command Interpreter\obj\Debug\02. Command Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\Exam Prep 3\02. Command Interpreter\obj\Debug\02. Command Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Exam Prep 3\02. Command Interpreter\obj\Debug\_02.Command_Interpreter.exe
+C:\Users\Stefan\source\repos\Exam Prep 3\02. Command Interpreter\obj\Debug\_02.Command_Interpreter.pdb

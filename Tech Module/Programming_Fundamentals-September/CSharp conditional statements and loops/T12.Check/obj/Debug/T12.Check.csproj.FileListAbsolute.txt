@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T12.Check\bin\Debug\T12.Check.exe.config
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T12.Check\bin\Debug\T12.Check.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T12.Check\bin\Debug\T12.Check.pdb
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T12.Check\obj\Debug\T12.Check.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T12.Check\obj\Debug\T12.Check.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T12.Check\obj\Debug\T12.Check.pdb

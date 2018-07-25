@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\11.Dictionaries, lambda and linq - excersises\06. User Logs\bin\Debug\_06.User_Logs.exe.config
+C:\Users\Stefan\source\repos\11.Dictionaries, lambda and linq - excersises\06. User Logs\bin\Debug\_06.User_Logs.exe
+C:\Users\Stefan\source\repos\11.Dictionaries, lambda and linq - excersises\06. User Logs\bin\Debug\_06.User_Logs.pdb
+C:\Users\Stefan\source\repos\11.Dictionaries, lambda and linq - excersises\06. User Logs\obj\Debug\06. User Logs.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\11.Dictionaries, lambda and linq - excersises\06. User Logs\obj\Debug\_06.User_Logs.exe
+C:\Users\Stefan\source\repos\11.Dictionaries, lambda and linq - excersises\06. User Logs\obj\Debug\_06.User_Logs.pdb

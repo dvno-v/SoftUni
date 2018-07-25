@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\02.Hornet Comm\obj\Debug\02.Hornet Comm.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\02.Hornet Comm\obj\Debug\02.Hornet Comm.exe
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\02.Hornet Comm\obj\Debug\02.Hornet Comm.pdb
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\02.Hornet Comm\obj\Debug\02.Hornet Comm.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\02.Hornet Comm\bin\Debug\02.Hornet Comm.exe.config
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\02.Hornet Comm\bin\Debug\02.Hornet Comm.exe
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\02.Hornet Comm\bin\Debug\02.Hornet Comm.pdb

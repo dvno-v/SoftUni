@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\05.Arrays\Trying stuff as i watch\bin\Debug\Trying stuff as i watch.exe.config
+C:\Users\Stefan\source\repos\05.Arrays\Trying stuff as i watch\bin\Debug\Trying stuff as i watch.exe
+C:\Users\Stefan\source\repos\05.Arrays\Trying stuff as i watch\bin\Debug\Trying stuff as i watch.pdb
+C:\Users\Stefan\source\repos\05.Arrays\Trying stuff as i watch\obj\Debug\Trying stuff as i watch.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\05.Arrays\Trying stuff as i watch\obj\Debug\Trying stuff as i watch.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\05.Arrays\Trying stuff as i watch\obj\Debug\Trying stuff as i watch.exe
+C:\Users\Stefan\source\repos\05.Arrays\Trying stuff as i watch\obj\Debug\Trying stuff as i watch.pdb

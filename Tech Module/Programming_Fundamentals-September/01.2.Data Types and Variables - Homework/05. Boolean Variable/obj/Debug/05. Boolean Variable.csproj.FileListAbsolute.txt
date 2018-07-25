@@ -1,0 +1,6 @@
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\05. Boolean Variable\obj\Debug\05. Boolean Variable.csproj.CoreCompileInputs.cache
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

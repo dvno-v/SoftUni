@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\03, Methods and Debugging\Lection , trying stuff\bin\Debug\Lection , trying stuff.exe.config
+C:\Users\Stefan\source\repos\03, Methods and Debugging\Lection , trying stuff\bin\Debug\Lection , trying stuff.exe
+C:\Users\Stefan\source\repos\03, Methods and Debugging\Lection , trying stuff\bin\Debug\Lection , trying stuff.pdb
+C:\Users\Stefan\source\repos\03, Methods and Debugging\Lection , trying stuff\obj\Debug\Lection , trying stuff.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\03, Methods and Debugging\Lection , trying stuff\obj\Debug\Lection , trying stuff.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\03, Methods and Debugging\Lection , trying stuff\obj\Debug\Lection , trying stuff.exe
+C:\Users\Stefan\source\repos\03, Methods and Debugging\Lection , trying stuff\obj\Debug\Lection , trying stuff.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Regex\05. Match Numbers\bin\Debug\_05.Match_Numbers.exe.config
+C:\Users\Stefan\source\repos\Regex\05. Match Numbers\bin\Debug\_05.Match_Numbers.exe
+C:\Users\Stefan\source\repos\Regex\05. Match Numbers\bin\Debug\_05.Match_Numbers.pdb
+C:\Users\Stefan\source\repos\Regex\05. Match Numbers\obj\Debug\05. Match Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Regex\05. Match Numbers\obj\Debug\_05.Match_Numbers.exe
+C:\Users\Stefan\source\repos\Regex\05. Match Numbers\obj\Debug\_05.Match_Numbers.pdb

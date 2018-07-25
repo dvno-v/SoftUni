@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\08.Lists\05. Square Numbers\bin\Debug\_05.Square_Numbers.exe.config
+C:\Users\Stefan\source\repos\08.Lists\05. Square Numbers\bin\Debug\_05.Square_Numbers.exe
+C:\Users\Stefan\source\repos\08.Lists\05. Square Numbers\bin\Debug\_05.Square_Numbers.pdb
+C:\Users\Stefan\source\repos\08.Lists\05. Square Numbers\obj\Debug\05. Square Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\08.Lists\05. Square Numbers\obj\Debug\_05.Square_Numbers.exe
+C:\Users\Stefan\source\repos\08.Lists\05. Square Numbers\obj\Debug\_05.Square_Numbers.pdb

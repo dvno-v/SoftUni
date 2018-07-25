@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\08.Lists-exercises\02. Change List\obj\Debug\02. Change List.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\08.Lists-exercises\02. Change List\obj\Debug\02. Change List.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\08.Lists-exercises\02. Change List\bin\Debug\_02.Change_List.exe.config
+C:\Users\Stefan\source\repos\08.Lists-exercises\02. Change List\bin\Debug\_02.Change_List.exe
+C:\Users\Stefan\source\repos\08.Lists-exercises\02. Change List\bin\Debug\_02.Change_List.pdb
+C:\Users\Stefan\source\repos\08.Lists-exercises\02. Change List\obj\Debug\_02.Change_List.exe
+C:\Users\Stefan\source\repos\08.Lists-exercises\02. Change List\obj\Debug\_02.Change_List.pdb

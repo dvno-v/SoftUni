@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\08.Lists\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.exe.config
+C:\Users\Stefan\source\repos\08.Lists\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\Stefan\source\repos\08.Lists\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.pdb
+C:\Users\Stefan\source\repos\08.Lists\03. Sum Adjacent Equal Numbers\obj\Debug\03. Sum Adjacent Equal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\08.Lists\03. Sum Adjacent Equal Numbers\obj\Debug\03. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\08.Lists\03. Sum Adjacent Equal Numbers\obj\Debug\_03.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\Stefan\source\repos\08.Lists\03. Sum Adjacent Equal Numbers\obj\Debug\_03.Sum_Adjacent_Equal_Numbers.pdb

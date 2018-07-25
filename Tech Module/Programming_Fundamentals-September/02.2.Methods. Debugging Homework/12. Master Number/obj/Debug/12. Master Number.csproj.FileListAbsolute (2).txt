@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\12. Master Number\bin\Debug\_12.Master_Number.exe.config
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\12. Master Number\bin\Debug\_12.Master_Number.exe
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\12. Master Number\bin\Debug\_12.Master_Number.pdb
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\12. Master Number\obj\Debug\12. Master Number.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\12. Master Number\obj\Debug\12. Master Number.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\12. Master Number\obj\Debug\_12.Master_Number.exe
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\12. Master Number\obj\Debug\_12.Master_Number.pdb

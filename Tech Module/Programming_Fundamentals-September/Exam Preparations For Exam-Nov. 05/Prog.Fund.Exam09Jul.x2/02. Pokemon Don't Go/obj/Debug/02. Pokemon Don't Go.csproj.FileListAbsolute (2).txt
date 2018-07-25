@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Prog.Fund.Exam09Jul.x2\02. Pokemon Don't Go\bin\Debug\_02.Pokemon_Don_t_Go.exe.config
+C:\Users\Stefan\source\repos\Prog.Fund.Exam09Jul.x2\02. Pokemon Don't Go\bin\Debug\_02.Pokemon_Don_t_Go.exe
+C:\Users\Stefan\source\repos\Prog.Fund.Exam09Jul.x2\02. Pokemon Don't Go\bin\Debug\_02.Pokemon_Don_t_Go.pdb
+C:\Users\Stefan\source\repos\Prog.Fund.Exam09Jul.x2\02. Pokemon Don't Go\obj\Debug\02. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Prog.Fund.Exam09Jul.x2\02. Pokemon Don't Go\obj\Debug\_02.Pokemon_Don_t_Go.exe
+C:\Users\Stefan\source\repos\Prog.Fund.Exam09Jul.x2\02. Pokemon Don't Go\obj\Debug\_02.Pokemon_Don_t_Go.pdb
+C:\Users\Stefan\source\repos\Prog.Fund.Exam09Jul.x2\02. Pokemon Don't Go\obj\Debug\02. Pokemon Don't Go.csprojResolveAssemblyReference.cache

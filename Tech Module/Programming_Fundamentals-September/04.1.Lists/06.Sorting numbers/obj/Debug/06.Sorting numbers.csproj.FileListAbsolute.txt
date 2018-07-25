@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\08.Lists\06.Sorting numbers\bin\Debug\06.Sorting numbers.exe.config
+C:\Users\Stefan\source\repos\08.Lists\06.Sorting numbers\bin\Debug\06.Sorting numbers.exe
+C:\Users\Stefan\source\repos\08.Lists\06.Sorting numbers\bin\Debug\06.Sorting numbers.pdb
+C:\Users\Stefan\source\repos\08.Lists\06.Sorting numbers\obj\Debug\06.Sorting numbers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\08.Lists\06.Sorting numbers\obj\Debug\06.Sorting numbers.exe
+C:\Users\Stefan\source\repos\08.Lists\06.Sorting numbers\obj\Debug\06.Sorting numbers.pdb

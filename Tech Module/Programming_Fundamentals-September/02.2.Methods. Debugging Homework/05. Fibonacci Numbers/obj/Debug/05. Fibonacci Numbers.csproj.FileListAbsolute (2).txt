@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\05. Fibonacci Numbers\obj\Debug\05. Fibonacci Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\05. Fibonacci Numbers\bin\Debug\_05.Fibonacci_Numbers.exe.config
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\05. Fibonacci Numbers\bin\Debug\_05.Fibonacci_Numbers.exe
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\05. Fibonacci Numbers\bin\Debug\_05.Fibonacci_Numbers.pdb
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\05. Fibonacci Numbers\obj\Debug\_05.Fibonacci_Numbers.exe
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\05. Fibonacci Numbers\obj\Debug\_05.Fibonacci_Numbers.pdb

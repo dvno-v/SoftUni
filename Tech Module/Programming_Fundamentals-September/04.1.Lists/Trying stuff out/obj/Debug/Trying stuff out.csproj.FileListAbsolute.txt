@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\08.Lists\Trying stuff out\bin\Debug\Trying stuff out.exe.config
+C:\Users\Stefan\source\repos\08.Lists\Trying stuff out\bin\Debug\Trying stuff out.exe
+C:\Users\Stefan\source\repos\08.Lists\Trying stuff out\bin\Debug\Trying stuff out.pdb
+C:\Users\Stefan\source\repos\08.Lists\Trying stuff out\obj\Debug\Trying stuff out.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\08.Lists\Trying stuff out\obj\Debug\Trying stuff out.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\08.Lists\Trying stuff out\obj\Debug\Trying stuff out.exe
+C:\Users\Stefan\source\repos\08.Lists\Trying stuff out\obj\Debug\Trying stuff out.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Exam Prep 02\02.Lady lings\bin\Debug\02.Lady lings.exe.config
+C:\Users\Stefan\source\repos\Exam Prep 02\02.Lady lings\bin\Debug\02.Lady lings.exe
+C:\Users\Stefan\source\repos\Exam Prep 02\02.Lady lings\bin\Debug\02.Lady lings.pdb
+C:\Users\Stefan\source\repos\Exam Prep 02\02.Lady lings\obj\Debug\02.Lady lings.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Exam Prep 02\02.Lady lings\obj\Debug\02.Lady lings.exe
+C:\Users\Stefan\source\repos\Exam Prep 02\02.Lady lings\obj\Debug\02.Lady lings.pdb
+C:\Users\Stefan\source\repos\Exam Prep 02\02.Lady lings\obj\Debug\02.Lady lings.csprojResolveAssemblyReference.cache

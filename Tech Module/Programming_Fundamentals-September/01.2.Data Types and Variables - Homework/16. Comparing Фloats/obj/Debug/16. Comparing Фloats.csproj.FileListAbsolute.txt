@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\16. Comparing Фloats\bin\Debug\_16.Comparing_Фloats.exe.config
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\16. Comparing Фloats\bin\Debug\_16.Comparing_Фloats.exe
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\16. Comparing Фloats\bin\Debug\_16.Comparing_Фloats.pdb
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\16. Comparing Фloats\obj\Debug\16. Comparing Фloats.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\16. Comparing Фloats\obj\Debug\_16.Comparing_Фloats.exe
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\16. Comparing Фloats\obj\Debug\_16.Comparing_Фloats.pdb

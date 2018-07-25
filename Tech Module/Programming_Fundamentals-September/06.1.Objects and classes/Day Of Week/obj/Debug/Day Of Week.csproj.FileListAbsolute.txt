@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\12.Objects and classes\Day Of Week\bin\Debug\Day Of Week.exe.config
+C:\Users\Stefan\source\repos\12.Objects and classes\Day Of Week\bin\Debug\Day Of Week.exe
+C:\Users\Stefan\source\repos\12.Objects and classes\Day Of Week\bin\Debug\Day Of Week.pdb
+C:\Users\Stefan\source\repos\12.Objects and classes\Day Of Week\obj\Debug\Day Of Week.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\12.Objects and classes\Day Of Week\obj\Debug\Day Of Week.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\12.Objects and classes\Day Of Week\obj\Debug\Day Of Week.exe
+C:\Users\Stefan\source\repos\12.Objects and classes\Day Of Week\obj\Debug\Day Of Week.pdb

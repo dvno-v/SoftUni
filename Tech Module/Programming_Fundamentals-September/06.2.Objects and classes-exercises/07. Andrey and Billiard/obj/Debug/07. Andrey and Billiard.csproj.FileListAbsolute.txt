@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\07. Andrey and Billiard\bin\Debug\_07.Andrey_and_Billiard.exe.config
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\07. Andrey and Billiard\bin\Debug\_07.Andrey_and_Billiard.exe
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\07. Andrey and Billiard\bin\Debug\_07.Andrey_and_Billiard.pdb
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\07. Andrey and Billiard\obj\Debug\07. Andrey and Billiard.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\07. Andrey and Billiard\obj\Debug\07. Andrey and Billiard.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\07. Andrey and Billiard\obj\Debug\_07.Andrey_and_Billiard.exe
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\07. Andrey and Billiard\obj\Debug\_07.Andrey_and_Billiard.pdb

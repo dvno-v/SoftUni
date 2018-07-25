@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Regex Exercises\04. Weather\bin\Debug\_04.Weather.exe.config
+C:\Users\Stefan\source\repos\Regex Exercises\04. Weather\bin\Debug\_04.Weather.exe
+C:\Users\Stefan\source\repos\Regex Exercises\04. Weather\bin\Debug\_04.Weather.pdb
+C:\Users\Stefan\source\repos\Regex Exercises\04. Weather\obj\Debug\04. Weather.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\Regex Exercises\04. Weather\obj\Debug\04. Weather.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Regex Exercises\04. Weather\obj\Debug\_04.Weather.exe
+C:\Users\Stefan\source\repos\Regex Exercises\04. Weather\obj\Debug\_04.Weather.pdb

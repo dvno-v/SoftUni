@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Prog.Fund.Exam.05.November\04\obj\Debug\04.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\Prog.Fund.Exam.05.November\04\obj\Debug\04.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Prog.Fund.Exam.05.November\04\bin\Debug\04.exe.config
+C:\Users\Stefan\source\repos\Prog.Fund.Exam.05.November\04\bin\Debug\04.exe
+C:\Users\Stefan\source\repos\Prog.Fund.Exam.05.November\04\bin\Debug\04.pdb
+C:\Users\Stefan\source\repos\Prog.Fund.Exam.05.November\04\obj\Debug\04.exe
+C:\Users\Stefan\source\repos\Prog.Fund.Exam.05.November\04\obj\Debug\04.pdb

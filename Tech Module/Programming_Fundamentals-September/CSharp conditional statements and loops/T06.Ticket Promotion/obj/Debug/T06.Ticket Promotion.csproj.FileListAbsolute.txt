@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T06.Ticket Promotion\bin\Debug\T06.Ticket Promotion.exe.config
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T06.Ticket Promotion\bin\Debug\T06.Ticket Promotion.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T06.Ticket Promotion\bin\Debug\T06.Ticket Promotion.pdb
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T06.Ticket Promotion\obj\Debug\T06.Ticket Promotion.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T06.Ticket Promotion\obj\Debug\T06.Ticket Promotion.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T06.Ticket Promotion\obj\Debug\T06.Ticket Promotion.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe.config
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.pdb
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\02. Advertisement Message\obj\Debug\02. Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.exe
+C:\Users\Stefan\source\repos\13.Objects and classes-exercises\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.pdb

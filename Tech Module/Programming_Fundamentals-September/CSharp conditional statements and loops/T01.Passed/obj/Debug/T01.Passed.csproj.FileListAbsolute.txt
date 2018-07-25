@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T01.Passed\bin\Debug\T01.Passed.exe.config
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T01.Passed\bin\Debug\T01.Passed.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T01.Passed\bin\Debug\T01.Passed.pdb
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T01.Passed\obj\Debug\T01.Passed.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T01.Passed\obj\Debug\T01.Passed.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T01.Passed\obj\Debug\T01.Passed.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T01.Passed\obj\Debug\T01.Passed.pdb

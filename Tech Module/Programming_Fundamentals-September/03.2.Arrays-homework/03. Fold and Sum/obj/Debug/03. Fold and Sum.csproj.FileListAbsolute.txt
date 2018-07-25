@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\07.Arrays-homework\03. Fold and Sum\bin\Debug\_03.Fold_and_Sum.exe.config
+C:\Users\Stefan\source\repos\07.Arrays-homework\03. Fold and Sum\bin\Debug\_03.Fold_and_Sum.exe
+C:\Users\Stefan\source\repos\07.Arrays-homework\03. Fold and Sum\bin\Debug\_03.Fold_and_Sum.pdb
+C:\Users\Stefan\source\repos\07.Arrays-homework\03. Fold and Sum\obj\Debug\03. Fold and Sum.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\07.Arrays-homework\03. Fold and Sum\obj\Debug\03. Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\07.Arrays-homework\03. Fold and Sum\obj\Debug\_03.Fold_and_Sum.exe
+C:\Users\Stefan\source\repos\07.Arrays-homework\03. Fold and Sum\obj\Debug\_03.Fold_and_Sum.pdb

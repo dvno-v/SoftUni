@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T03.Back int thirty minutes\bin\Debug\T03.Back int thirty minutes.exe.config
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T03.Back int thirty minutes\bin\Debug\T03.Back int thirty minutes.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T03.Back int thirty minutes\bin\Debug\T03.Back int thirty minutes.pdb
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T03.Back int thirty minutes\obj\Debug\T03.Back int thirty minutes.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T03.Back int thirty minutes\obj\Debug\T03.Back int thirty minutes.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T03.Back int thirty minutes\obj\Debug\T03.Back int thirty minutes.pdb

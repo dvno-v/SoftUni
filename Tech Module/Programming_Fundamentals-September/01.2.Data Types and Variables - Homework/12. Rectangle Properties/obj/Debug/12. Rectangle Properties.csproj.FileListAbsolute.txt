@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe.config
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.pdb
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\12. Rectangle Properties\obj\Debug\12. Rectangle Properties.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.exe
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.pdb

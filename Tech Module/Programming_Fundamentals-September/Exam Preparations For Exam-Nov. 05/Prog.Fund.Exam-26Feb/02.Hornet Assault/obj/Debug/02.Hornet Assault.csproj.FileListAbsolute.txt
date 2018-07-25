@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\02.Hornet Assault\bin\Debug\02.Hornet Assault.exe.config
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\02.Hornet Assault\bin\Debug\02.Hornet Assault.exe
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\02.Hornet Assault\bin\Debug\02.Hornet Assault.pdb
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\02.Hornet Assault\obj\Debug\02.Hornet Assault.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\02.Hornet Assault\obj\Debug\02.Hornet Assault.exe
+C:\Users\Stefan\source\repos\Prog.Fund.Exam-26Feb\02.Hornet Assault\obj\Debug\02.Hornet Assault.pdb

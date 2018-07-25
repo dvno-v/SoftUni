@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\01.Data Types and Variables\04. Elevator\bin\Debug\_04.Elevator.exe.config
+C:\Users\Stefan\source\repos\01.Data Types and Variables\04. Elevator\bin\Debug\_04.Elevator.exe
+C:\Users\Stefan\source\repos\01.Data Types and Variables\04. Elevator\bin\Debug\_04.Elevator.pdb
+C:\Users\Stefan\source\repos\01.Data Types and Variables\04. Elevator\obj\Debug\04. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\01.Data Types and Variables\04. Elevator\obj\Debug\_04.Elevator.exe
+C:\Users\Stefan\source\repos\01.Data Types and Variables\04. Elevator\obj\Debug\_04.Elevator.pdb

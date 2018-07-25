@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\08. Center Point\bin\Debug\_08.Center_Point.exe.config
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\08. Center Point\bin\Debug\_08.Center_Point.exe
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\08. Center Point\bin\Debug\_08.Center_Point.pdb
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\08. Center Point\obj\Debug\08. Center Point.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\08. Center Point\obj\Debug\08. Center Point.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\08. Center Point\obj\Debug\_08.Center_Point.exe
+C:\Users\Stefan\source\repos\04.Methods. Debugging Homework\08. Center Point\obj\Debug\_08.Center_Point.pdb

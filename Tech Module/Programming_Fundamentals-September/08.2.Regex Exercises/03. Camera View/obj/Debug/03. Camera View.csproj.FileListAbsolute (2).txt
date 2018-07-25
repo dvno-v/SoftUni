@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Regex Exercises\03. Camera View\bin\Debug\_03.Camera_View.exe.config
+C:\Users\Stefan\source\repos\Regex Exercises\03. Camera View\bin\Debug\_03.Camera_View.exe
+C:\Users\Stefan\source\repos\Regex Exercises\03. Camera View\bin\Debug\_03.Camera_View.pdb
+C:\Users\Stefan\source\repos\Regex Exercises\03. Camera View\obj\Debug\03. Camera View.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Regex Exercises\03. Camera View\obj\Debug\_03.Camera_View.exe
+C:\Users\Stefan\source\repos\Regex Exercises\03. Camera View\obj\Debug\_03.Camera_View.pdb

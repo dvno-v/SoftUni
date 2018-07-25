@@ -1,0 +1,6 @@
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\01. Practice Integers\bin\Debug\_01.Practice_Integers.exe.config
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\01. Practice Integers\bin\Debug\_01.Practice_Integers.exe
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\01. Practice Integers\bin\Debug\_01.Practice_Integers.pdb
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\01. Practice Integers\obj\Debug\01. Practice Integers.csproj.CoreCompileInputs.cache
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\01. Practice Integers\obj\Debug\_01.Practice_Integers.exe
+c:\users\stefan\source\repos\02.Data Types and Variables - Homework\01. Practice Integers\obj\Debug\_01.Practice_Integers.pdb

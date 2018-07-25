@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T10.Multiplication table2.0\bin\Debug\T10.Multiplication table2.0.exe.config
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T10.Multiplication table2.0\bin\Debug\T10.Multiplication table2.0.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T10.Multiplication table2.0\bin\Debug\T10.Multiplication table2.0.pdb
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T10.Multiplication table2.0\obj\Debug\T10.Multiplication table2.0.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T10.Multiplication table2.0\obj\Debug\T10.Multiplication table2.0.exe
+C:\Users\Stefan\source\repos\CSharp conditional statements and loops\T10.Multiplication table2.0\obj\Debug\T10.Multiplication table2.0.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe.config
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.pdb
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\10. Centuries to Nanoseconds\obj\Debug\10. Centuries to Nanoseconds.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.exe
+C:\Users\Stefan\source\repos\02.Data Types and Variables - Homework\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.pdb

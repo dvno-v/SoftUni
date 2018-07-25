@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\ProgFundExam24April2016\02. Game Of Names\bin\Debug\_02.Game_Of_Names.exe.config
+C:\Users\Stefan\source\repos\ProgFundExam24April2016\02. Game Of Names\bin\Debug\_02.Game_Of_Names.exe
+C:\Users\Stefan\source\repos\ProgFundExam24April2016\02. Game Of Names\bin\Debug\_02.Game_Of_Names.pdb
+C:\Users\Stefan\source\repos\ProgFundExam24April2016\02. Game Of Names\obj\Debug\02. Game Of Names.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\ProgFundExam24April2016\02. Game Of Names\obj\Debug\_02.Game_Of_Names.exe
+C:\Users\Stefan\source\repos\ProgFundExam24April2016\02. Game Of Names\obj\Debug\_02.Game_Of_Names.pdb

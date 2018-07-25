@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\03, Methods and Debugging\05. Temperature Conversion\obj\Debug\05. Temperature Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\03, Methods and Debugging\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.exe.config
+C:\Users\Stefan\source\repos\03, Methods and Debugging\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.exe
+C:\Users\Stefan\source\repos\03, Methods and Debugging\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.pdb
+C:\Users\Stefan\source\repos\03, Methods and Debugging\05. Temperature Conversion\obj\Debug\_05.Temperature_Conversion.exe
+C:\Users\Stefan\source\repos\03, Methods and Debugging\05. Temperature Conversion\obj\Debug\_05.Temperature_Conversion.pdb

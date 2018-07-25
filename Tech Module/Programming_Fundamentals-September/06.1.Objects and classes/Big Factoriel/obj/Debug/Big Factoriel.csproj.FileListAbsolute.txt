@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\12.Objects and classes\Big Factoriel\bin\Debug\Big Factoriel.exe.config
+C:\Users\Stefan\source\repos\12.Objects and classes\Big Factoriel\bin\Debug\Big Factoriel.exe
+C:\Users\Stefan\source\repos\12.Objects and classes\Big Factoriel\bin\Debug\Big Factoriel.pdb
+C:\Users\Stefan\source\repos\12.Objects and classes\Big Factoriel\obj\Debug\Big Factoriel.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\12.Objects and classes\Big Factoriel\obj\Debug\Big Factoriel.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\12.Objects and classes\Big Factoriel\obj\Debug\Big Factoriel.exe
+C:\Users\Stefan\source\repos\12.Objects and classes\Big Factoriel\obj\Debug\Big Factoriel.pdb

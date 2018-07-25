@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\03, Methods and Debugging\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.exe.config
+C:\Users\Stefan\source\repos\03, Methods and Debugging\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.exe
+C:\Users\Stefan\source\repos\03, Methods and Debugging\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.pdb
+C:\Users\Stefan\source\repos\03, Methods and Debugging\04. Draw a Filled Square\obj\Debug\04. Draw a Filled Square.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\03, Methods and Debugging\04. Draw a Filled Square\obj\Debug\_04.Draw_a_Filled_Square.exe
+C:\Users\Stefan\source\repos\03, Methods and Debugging\04. Draw a Filled Square\obj\Debug\_04.Draw_a_Filled_Square.pdb

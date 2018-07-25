@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\01.Data Types and Variables\Lection and trying things out as im watching\bin\Debug\Lection and trying things out as im watching.exe.config
+C:\Users\Stefan\source\repos\01.Data Types and Variables\Lection and trying things out as im watching\bin\Debug\Lection and trying things out as im watching.exe
+C:\Users\Stefan\source\repos\01.Data Types and Variables\Lection and trying things out as im watching\bin\Debug\Lection and trying things out as im watching.pdb
+C:\Users\Stefan\source\repos\01.Data Types and Variables\Lection and trying things out as im watching\obj\Debug\Lection and trying things out as im watching.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\01.Data Types and Variables\Lection and trying things out as im watching\obj\Debug\Lection and trying things out as im watching.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\01.Data Types and Variables\Lection and trying things out as im watching\obj\Debug\Lection and trying things out as im watching.exe
+C:\Users\Stefan\source\repos\01.Data Types and Variables\Lection and trying things out as im watching\obj\Debug\Lection and trying things out as im watching.pdb
