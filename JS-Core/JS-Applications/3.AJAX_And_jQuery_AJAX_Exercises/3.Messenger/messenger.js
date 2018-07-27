@@ -47,6 +47,6 @@ function attachEvents() {
     }
     //error
     function displayError() {
-
+        
     }
 }
