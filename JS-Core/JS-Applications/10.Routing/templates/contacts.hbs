@@ -1,0 +1,19 @@
+<div class="container">
+    <header>&#9993; Contact Book</header>
+    <div id="book" class="box-large">
+        <div id="list">
+            <h1>Contacts</h1>
+            <div class="content">
+                {{#each contacts}}
+                    {{> contact}}
+                {{else}}
+                    <div>No contacts yet</div>
+                {{/each}}
+            </div>
+        </div>
+        <div id="details">
+            {{> details}}
+        </div>
+    </div>
+    <footer>Contact Book SPA &copy; 2017</footer>
+</div>
