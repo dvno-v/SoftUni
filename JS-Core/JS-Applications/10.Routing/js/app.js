@@ -18,6 +18,7 @@ $(() => {
             });
         });
         this.get('#/contacts', function (context) {
+            context.logged = true;
             context.loadPartials({
                 header: "./templates/common/header.hbs",
                 footer: "./templates/common/footer.hbs",
@@ -29,7 +30,6 @@ $(() => {
                         context.contacts = contacts;
                         context.partial('./templates/contacts.hbs');
                     })
-
             });
         });
         this.get('#/register', function (context) {
@@ -51,17 +51,14 @@ $(() => {
             let name = this.params.name;
             let email = this.params.email;
             let phone = this.params.phone;
-            kinvey.registerUser(username, password, phone, email, name);
-            this.redirect("#/contacts");
+            kinvey.registerUser(username, password, phone, email, name, context);
         });
 
-        this.post("#/login", function () {
+        this.post("#/login", function (context) {
             console.log("loggin in");
             let username = this.params.username;
             let password = this.params.passwd;
-            kinvey.loginUser(username, password);
-            this.redirect('#/contacts');
-
+            kinvey.loginUser(username, password, context);
         });
     });
 

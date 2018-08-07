@@ -31,7 +31,7 @@ let kinvey = (function () {
     }
 
     //register
-    function registerUser(username, password, phone, email, name) {
+    function registerUser(username, password, phone, email, name, context) {
         let firstName = name.split(" ")[0].trim();
         let lastName = name.split(" ")[1].trim();
         let user = JSON.stringify({username,password, phone, email, firstName, lastName});
@@ -45,26 +45,23 @@ let kinvey = (function () {
         let contactReq = {
             url: baseUrl + `appdata/${appKey}/contacts`,
             method: "POST",
-            headers: headersMaker("kinvey"),
+            headers: headersMaker("basic"),
             data: user,
             success:registerSuccess,
             error: (e) => displayError(e.responseJSON.description)
         };
-
-        // Promise.all([$.ajax(req), $.ajax(contactReq)]).then(function ([registerData, contact]) {
-        //    registerSuccess(registerData);
-        // });
-
         $.ajax(req);
 
         function registerSuccess(user) {
             saveUsersInfo(user);
-            $.ajax(contactReq);
+            $.ajax(contactReq).then(()=>{
+                context.redirect("#/contacts")
+            });
         }
     }
 
     //login
-    function loginUser(username, password) {
+    function loginUser(username, password, context) {
         let user = JSON.stringify({username: username, password: password});
         let req = {
             url: baseUrl + `user/${appKey}/login`,
@@ -78,6 +75,7 @@ let kinvey = (function () {
 
         function loginSuccess(user) {
             saveUsersInfo(user);
+            context.redirect('#/contacts')
         }
     }
 
