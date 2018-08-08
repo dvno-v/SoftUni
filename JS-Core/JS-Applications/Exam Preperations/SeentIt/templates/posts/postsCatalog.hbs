@@ -1,0 +1,19 @@
+{{>header}}
+{{> navigation}}
+<div>
+    {{#if viewOwnPosts}}
+    <div class="post post-content">
+        <h1>Your Posts</h1>
+    </div>
+    {{/if}}
+<section id="viewCatalog">
+    <div class="posts">
+        {{#each posts}}
+            {{> post}}
+        {{else}}
+            <div>No posts in database</div>
+        {{/each}}
+    </div>
+</section>
+</div>
+{{> footer}}

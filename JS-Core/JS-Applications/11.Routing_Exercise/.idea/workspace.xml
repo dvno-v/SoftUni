@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98da03c4-a4d2-4138-9417-04195be9a608" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../10.Routing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10.Routing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.Routing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../10.Routing/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.Routing/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../10.Routing/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.Routing/js/remote.js" beforeDir="false" afterPath="$PROJECT_DIR$/../10.Routing/js/remote.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.Routing/templates/common/header.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/../10.Routing/templates/common/header.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.Routing/templates/contacts.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/../10.Routing/templates/contacts.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,8 +17,10 @@
     <session id="1066423051">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -32,6 +29,7 @@
           <entry key="hbs" value="25" />
           <entry key="html" value="3" />
           <entry key="js" value="9" />
+          <entry key="json" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -39,6 +37,7 @@
           <entry key="CSS" value="2" />
           <entry key="HTML" value="3" />
           <entry key="Handlebars/Mustache" value="25" />
+          <entry key="JSON" value="1" />
           <entry key="JavaScript" value="9" />
         </counts>
       </usages-collector>
@@ -46,25 +45,25 @@
         <counts>
           <entry key="hbs" value="22" />
           <entry key="html" value="31" />
-          <entry key="js" value="3331" />
+          <entry key="js" value="3347" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="31" />
           <entry key="Handlebars/Mustache" value="22" />
-          <entry key="JavaScript" value="3331" />
+          <entry key="JavaScript" value="3347" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/models/auth.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -73,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/templates/catalog/details.hbs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="7" selection-end-column="25" />
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -82,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/templates/catalog/teamControls.hbs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -95,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/catalog/teamCatalog.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="85">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -110,32 +109,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="225" column="43" lean-forward="true" selection-start-line="225" selection-start-column="43" selection-end-line="225" selection-end-column="43" />
+            <state relative-caret-position="3910">
+              <caret line="230" column="11" selection-start-line="230" selection-start-column="11" selection-end-line="230" selection-end-column="11" />
               <folding>
-                <element signature="e#1482#1862#0" />
-                <element signature="e#1273#1641#0" />
-                <element signature="e#1695#1952#0" />
-                <element signature="e#2015#2396#0" />
-                <element signature="e#2456#2785#0" />
-                <element signature="e#2835#2997#0" />
-                <element signature="e#4157#4936#0" />
-                <element signature="e#4886#5890#0" />
-                <element signature="e#5960#6475#0" />
-                <element signature="e#6542#6889#0" />
-                <element signature="e#7444#8228#0" />
-                <marker date="1533671738172" expanded="true" signature="8908:8920" ph="..." />
+                <marker date="1533673258627" expanded="true" signature="8964:8976" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/edit/editPage.hbs">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="171" column="17" selection-start-line="171" selection-start-column="17" selection-end-line="171" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -150,7 +142,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/models/requester.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="612">
               <caret line="36" column="26" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="26" />
             </state>
           </provider>
@@ -190,6 +182,37 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/handlebars/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jquery/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sammy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yargs/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="27" />
@@ -246,7 +269,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exam Preperations/SeentIt" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -272,12 +295,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533658451840</updated>
-      <workItem from="1533658453491" duration="13622000" />
+      <workItem from="1533658453491" duration="14266000" />
+      <workItem from="1533647528820" duration="63000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13622000" />
+    <option name="totallyTimeSpent" value="14329000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -290,12 +314,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18080357" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18080357" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32850242" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -326,22 +349,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/common/footer.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#25#31#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/create/createPage.hbs">
       <provider selected="true" editor-type-id="text-editor" />
@@ -381,9 +392,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/viewController/userViewController.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/viewController/userViewController.js" />
     <entry file="file://$PROJECT_DIR$/templates/home/home.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -404,41 +413,34 @@
     <entry file="file://$PROJECT_DIR$/templates/edit/editPage.hbs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/edit/editForm.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="24" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/catalog/team.hbs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/models/auth.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/catalog/details.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="7" selection-end-column="25" />
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/catalog/teamControls.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/models/requester.js">
+    <entry file="file://$PROJECT_DIR$/templates/catalog/team.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/catalog/teamCatalog.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="26" />
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -449,31 +451,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/catalog/teamCatalog.hbs">
+    <entry file="file://$PROJECT_DIR$/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="3910">
+          <caret line="230" column="11" selection-start-line="230" selection-start-column="11" selection-end-line="230" selection-end-column="11" />
+          <folding>
+            <marker date="1533673258627" expanded="true" signature="8964:8976" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/app.js">
+    <entry file="file://$PROJECT_DIR$/templates/edit/editForm.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="225" column="43" lean-forward="true" selection-start-line="225" selection-start-column="43" selection-end-line="225" selection-end-column="43" />
-          <folding>
-            <element signature="e#1482#1862#0" />
-            <element signature="e#1273#1641#0" />
-            <element signature="e#1695#1952#0" />
-            <element signature="e#2015#2396#0" />
-            <element signature="e#2456#2785#0" />
-            <element signature="e#2835#2997#0" />
-            <element signature="e#4157#4936#0" />
-            <element signature="e#4886#5890#0" />
-            <element signature="e#5960#6475#0" />
-            <element signature="e#6542#6889#0" />
-            <element signature="e#7444#8228#0" />
-            <marker date="1533671738172" expanded="true" signature="8908:8920" ph="..." />
-          </folding>
+        <state>
+          <caret column="30" selection-start-column="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/models/requester.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="171" column="17" selection-start-line="171" selection-start-column="17" selection-end-line="171" selection-end-column="17" />
         </state>
       </provider>
     </entry>
