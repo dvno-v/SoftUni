@@ -1,0 +1,34 @@
+.button{
+    outline: none;
+    cursor: pointer;
+}
+.hover{
+    color:rgb(51, 51, 51);
+}
+.normal.hover:hover{
+    color: rgb(0, 102, 0);
+    border-color: rgb(0, 102, 0);
+}
+.normal {
+    border: 1.8px solid black;
+    border-radius: 12px ;
+    text-decoration: none;
+    font-size: 13x;
+}
+
+.fill {
+    border: 1.8px solid black;
+    border-radius: 12px ;
+    text-decoration: none;
+    font-size: 13x;
+    background: rgb(51, 51, 51);
+}
+.fill.hover{
+    color: rgb(251, 251, 251);
+}
+
+.button.fill.hover:hover{
+    color:rgb(251, 251, 251);
+    background: rgb(0, 102, 0);
+    border-color: rgb(0, 102, 0);
+}
