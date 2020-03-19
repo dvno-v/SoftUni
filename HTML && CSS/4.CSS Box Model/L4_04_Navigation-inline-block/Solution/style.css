@@ -1,0 +1,36 @@
+html{
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.2;
+
+}
+header{
+    border-bottom: 1px solid black;
+}
+.site-title{
+    font-size: 3rem;
+    display: inline-block;
+    font-family: Helvetica, sans-serif;
+
+}
+nav {
+    display: inline-block;
+}
+nav ul li{
+    display: inline-block;
+    
+}
+nav ul li a {
+    text-decoration: none;
+    color: green;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+h1{
+    font-family: Georgia, serif;
+    font-size: 1em;
+    line-height: 1.2;
+}
